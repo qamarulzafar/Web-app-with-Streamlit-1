@@ -4,6 +4,8 @@ import seaborn as sns
 
 
 
+
+
 st.title('Data Analysis Application')
 st.subheader('This is a simple data Analysis application created By Qamar !')
 
